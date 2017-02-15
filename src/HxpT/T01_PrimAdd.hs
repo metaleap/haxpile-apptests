@@ -1,5 +1,14 @@
-module HxpT.T01_PrimAdd where
+module HxpT.T01_PrimAdd
+(testX)
+where
+
+import Hxp.ES
 
 
-test input =
-    (1 + input) * 2
+
+testZ input =
+    (2 * input) + 3
+
+
+testX input =
+    (4 + input) * 5

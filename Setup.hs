@@ -1,2 +1,2 @@
 import Hxp.Via.CabalSetup
-main = mainES
+main = postBuild "haxpile-apptests.hxp" []
