@@ -11,4 +11,4 @@ testZ input =
 
 
 testX input =
-    (4 + input) * 5
+    (4 + input) + 5

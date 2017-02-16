@@ -22,4 +22,4 @@ library
     haxbase, haxpile,
     base
   exposed-modules:
-    HxpT.T01_PrimAdd
+    HxpT.T01_PrimAdd, HxpT.T02_FacRec
