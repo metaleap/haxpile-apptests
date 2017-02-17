@@ -5,6 +5,9 @@ packages:
 - '../haxpile'
 - '.'
 
+extra-deps:
+- ghc-paths-0.1.0.9
+
 dump-logs: all
 install-ghc: true
 compiler-check: newer-minor
