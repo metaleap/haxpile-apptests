@@ -1,4 +1,6 @@
-import Hxp.Via.CabalSetup
-main = postBuild "haxpile-apptests.hxp" []
 -- import Distribution.Simple
+import Hxp.Via.CabalSetup
+
+main = ensureHxpFiles
+
 -- main = defaultMain

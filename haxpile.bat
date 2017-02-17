@@ -1,0 +1,1 @@
+stack repl --no-package-hiding --with-ghc haxpile-notarepl
