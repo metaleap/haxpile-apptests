@@ -13,3 +13,6 @@ allow-different-user: true
 
 explicit-setup-deps:
   "*": true
+
+extra-deps:
+- text-1.2.2.1
